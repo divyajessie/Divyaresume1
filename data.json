@@ -1,0 +1,51 @@
+{
+  "basics":{
+    "name":"Divya",
+    "email":"divyajessie77@gmail.com",
+    "number":"9876576453"
+  },
+  "career":{
+
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+  "education":[
+    {
+      "Degree":"B.tech(C.S.E)" ,
+      "Institute":"Avanthi Institute of engineering",
+      "data":["2015-2019","72%"]
+    },
+    {
+      "Degree":"Intermediate" ,
+      "Institute":"Narayana Jnr College",
+      "data":["2013-2015","78%"]
+
+    },
+    {
+      "Degree":"SSC" ,
+      "Institute":"Sri Chaitanya Techno School",
+      "data":["2013","88%"]
+    }
+  ],
+  "skills":[
+    {
+      "title":"Programming Languages",
+      "info":["C","Java","c++"]
+    },
+    {
+      "title":"DataBases",
+      "info":["mongodb","mysql","oracle"]
+    },
+    {
+      "title":"Web Technologies",
+      "info":["Html5","CSS3","javascript"]
+    },
+    {
+      "title":"libraries and frameworks",
+      "info":["ionic","angular","express",".Net"]
+    },
+    {
+      "title":"Operating Systems",
+      "info":["linux","windows","Dos"]
+    }
+  ]
+}
